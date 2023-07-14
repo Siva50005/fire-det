@@ -1,0 +1,34 @@
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+    border: 1px solid #a83232;
+    width: 80%;
+    margin-top: 30px;
+    border-radius: 30px;
+    align-items: center;
+    margin-left: auto;
+  margin-right: auto;
+    
+}
+
+.card h1 {
+    color: #a83232;
+    font-size: 30px;
+    margin-top: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+#img_render {
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
